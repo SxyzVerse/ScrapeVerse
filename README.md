@@ -2,7 +2,7 @@
 # ScrapeVerse 🌐
 
 [![License: GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Open Issues](https://img.shields.io/github/issues/yourusername/ScrapeVerse)](https://github.com/yourusername/ScrapeVerse/issues)
+[![Open Issues](https://img.shields.io/github/issues/yourusername/ScrapeVerse)](https://github.com/SxyzVerse/ScrapeVerse/issues)
 
 **Repository Khusus Web Scraping dengan Node.js**
 
