@@ -1,0 +1,23 @@
+{
+  "name": "scrapeverse",
+  "version": "1.0.0",
+  "main": "none",
+  "type": "module", 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SxyzVerse/ScrapeVerse.git"
+  },
+  "keywords": [
+      "scraping"
+  ],
+  "author": "SxyzVerse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SxyzVerse/ScrapeVerse/issues"
+  },
+  "homepage": "https://github.com/SxyzVerse/ScrapeVerse#readme",
+  "description": "Sebuah repo yang menampung semua scraper saya ( sxyz ) semoga bermanfaat dan jangan lupa berikan star!"
+}
