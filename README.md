@@ -65,11 +65,6 @@ Berlisensi [GNU GPLv3](LICENSE). Bebas digunakan, dimodifikasi, dan didistribusi
 - Tidak diperlukan `npm install` atau manajemen paket
 - Fokus pada implementasi langsung tanpa abstraksi
 
-**Penyesuaian:**  
-1. Ganti `yourusername` dengan username GitHub Anda  
-2. Sesuaikan struktur direktori sesuai kebutuhan aktual  
-3. Tambahkan target website spesifik dalam dokumentasi  
-
 **Sifat:**  
 - Lugas dan teknis  
 - Minimalis tanpa embel-embel  
